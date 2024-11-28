@@ -1,0 +1,28 @@
+body{
+    background-color: #000;
+}
+
+svg{
+    width: 3rem;
+    height: 3rem;
+}
+
+.colorFondoCeleste{
+    background-color: #0dc9f0;
+}
+
+i{
+    font-size: 1.5rem;
+}
+
+.altoImagenTarjeta{
+    height: 40%;
+}
+
+.coloFuenteBlanco{
+    color: #fff;
+}
+
+.margenIzquierda{
+    margin-left: 6rem;
+}
